@@ -1,8 +1,7 @@
 # StoreForge
 FastAPI интернет-магазин с PostgreSQL, Redis, RabbitMQ и Docker.
 
-
-Для **StoreForge** я бы предложил не максимально раздробленную систему из 10–15 сервисов, а **умеренную микросервисную архитектуру из 6 основных сервисов**. Она достаточно серьёзная для портфолио, но её реально сделать одному.
+storeforge-auth-service: https://github.com/CONt12006/storeforge-auth-service
 
 # Предлагаемая архитектура
 
