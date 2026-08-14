@@ -1,8 +1,7 @@
 # StoreForge
 FastAPI интернет-магазин с PostgreSQL, Redis, RabbitMQ и Docker.
 
-storeforge-auth-service: https://github.com/CONt12006/storeforge-auth-service
-
+storeforge-auth-service: https://github.com/CONt12006/storeforge-auth-service  
 storeforge-catalog-service: https://github.com/CONt12006/storeforge-catalog-service
 
 # Предлагаемая архитектура
